@@ -1,2 +1,2 @@
-# SEU-CS-OpenSource-DataStructure
+# ***SEU-CS-OpenSource*** 系列之 $\color{red}{数据结构}$
 本仓库是针对东南大学计算机类数据结构课程(BJSL0061)的公开学习材料，将课程中抽象的数据结构和算法用Python或C++实现，到了期末也会更新收购的收购的往年试卷，敬请期待！
