@@ -69,4 +69,4 @@ int main()
     return 0;
 }
 
-//注：GPT-6 Astra(Ultra)后期注释以及部分代码的Debug,Coding由Shuning_Lin同学主导。
+//注：GPT-6 Astra(Ultra)参与后期注释以及部分代码的Debug,Coding由Shuning_Lin同学主导。

@@ -48,4 +48,4 @@ if __name__=="__main__":
     print("测试矩阵可视化:\n",visual)
     visual=np.array(test.fast_transpose().to_dense())
     print("测试矩阵转置可视化:\n",visual)
-#注：GPT-6 Astra(Ultra)后期注释以及部分代码的Debug,Coding由Shuning_Lin同学主导。
+#注：GPT-6 Astra(Ultra)参与后期注释以及部分代码的Debug,Coding由Shuning_Lin同学主导。
