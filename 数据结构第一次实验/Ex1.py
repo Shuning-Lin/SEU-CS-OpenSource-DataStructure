@@ -26,3 +26,5 @@ if l>r:
     print("没有找到该数,顺序插入下标应为:",l)
 else:
     print("找到该数,其下标为:",mid)
+
+# 注：GPT-6 Astra(Ultra)&DeepSeek V4.1 flash参与后期注释以及部分代码的Debug,Coding由Shuning_Lin同学主导。
