@@ -2,7 +2,7 @@ import random
 
 def BinarySearch(arr,target):
     l=0
-    r=n-1
+    r=len(arr)-1
     while(l<=r):
         mid=(l+r)//2  #左偏型
         select=arr[mid]
@@ -21,7 +21,8 @@ if __name__=="__main__":
     print("请输入n的大小:")
     n=int(input())
 
-    arr=[random.randint(0,101) for i in range(n)]
+    # arr=[random.randint(0,101) for i in range(n)]
+    arr=random.sample(range(101),n)  # 保证无重复元素
     arr.sort()
     print("生成的升序数组为:",arr)
 
