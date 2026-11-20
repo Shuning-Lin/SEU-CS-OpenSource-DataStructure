@@ -36,6 +36,25 @@ class statecmp implements Comparator<state>
     }
 }
 
+interface not_relevant1
+{
+    public void hello();
+    public String speak();
+}
+
+class not_relevant2 implements not_relevant1
+{
+    public void hello()
+    {
+        System.out.println("hello");
+    }
+    public String speak()
+    {
+        return "hello";
+    }
+}
+
+
 public class ds_9029
 {
     static public void main(String[] args)
